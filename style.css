@@ -1,0 +1,36 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+}
+.note{
+    color: navy;
+    font-weight: bold;
+}
+.divspeed
+{
+    float: left;
+    margin-left: 10px;
+}
+#speedimage{
+    width: 100px;
+    height:100px;
+}
+.divvolume
+{
+    float: right;
+    margin-right: 10px;
+}
+#volumeimage{
+    width: 100px;
+    height:100px;
+}
+canvas{
+    border: 5px solid lightcoral;
+    border-radius: 30px;
+    margin-top: 30px;
+}
